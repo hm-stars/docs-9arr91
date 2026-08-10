@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-zc8h9w.pulaucuanwin.sbs/sitemap.xml
